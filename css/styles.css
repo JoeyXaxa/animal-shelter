@@ -1,0 +1,65 @@
+.nav-section {
+  background-image: url(../img/bg-dog.jpg);
+  height: 100vh;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.nav-link {
+  color: white;
+}
+
+.my-button {
+  border: none;
+  outline: none;
+  padding: 12px 30px;
+  color: white;
+  background-color: rgb(241, 168, 89);
+  border-radius: 4px;
+  align-items: center;
+}
+
+.my-button span img{
+  width: 30px;
+  height: 30px;
+}
+
+
+.list-group img {
+  width: 30px;
+  height: 30px;
+  margin-right: 10px;
+}
+
+.list-group p {
+  margin-left: 45px;
+}
+
+
+.furry h1 {
+  font-size: 150px;
+  margin-top: 130px;
+}
+
+
+
+.pets {
+  text-align: center;
+  
+}
+
+.card {
+  border: none;
+
+  
+}
+
+.pets-adoption {
+  background-color: rgb(153, 94, 94);
+  margin-top: 0px;
+}
+
+.love {
+  align-items: center;
+}
