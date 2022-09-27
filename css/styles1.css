@@ -7,8 +7,12 @@
 body {
   background-color: #6c757d;
 }
-
-/* it will style my nav section */
+/* it will style my nav */
+.nav-section {
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
 
 .nav-link {
   color: white;
@@ -24,7 +28,7 @@ body {
   align-items: center;
 }
 
-.my-button span img {
+.my-button span img{
   width: 30px;
   height: 30px;
 }
