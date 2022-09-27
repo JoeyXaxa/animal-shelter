@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@700&display=swap');
+
+* {
+  font-family: 'Roboto Slab', serif;
+}
+
+body {
+  background-color: #6c757d;
+}
+
+.nav-section {
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.nav-link {
+  color: white;
+}
+
+.my-button {
+  border: none;
+  outline: none;
+  padding: 12px 30px;
+  color: white;
+  background-color: #ffc107;
+  border-radius: 4px;
+  align-items: center;
+}
+
+.my-button span img {
+  width: 30px;
+  height: 30px;
+}
+
+.who {
+  text-align: center;
+  padding-top: 100px;
+  height: 100vh;
+}
+
+.who h1 {
+  font-size: 20px;
+  padding-top: 10px;
+}
+
+.who h2 {
+  font-size: 70px;
+}
+
+.who h3 {
+  font-size: 20px;
+}
+
+.card img {
+  width: 90px;
+  height: 90px;
+  padding-left: 10px;
+  padding-top: 3px;
+}
