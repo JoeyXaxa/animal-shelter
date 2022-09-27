@@ -8,11 +8,7 @@ body {
   background-color: #6c757d;
 }
 
-.nav-section {
-  width: 100%;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
+/* it will style my nav section */
 
 .nav-link {
   color: white;
