@@ -19,8 +19,8 @@ img {
 .nav-link {
   color: white;
 }
-
-.my-button {
+/* it styles my button  */
+/* .my-button {
   border: none;
   outline: none;
   padding: 12px 30px;
@@ -28,7 +28,7 @@ img {
   background-color: #ffc107;
   border-radius: 4px;
   align-items: center;
-}
+} */
 
 .my-button span img{
   width: 30px;
