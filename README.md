@@ -1,4 +1,4 @@
-# XAXA Resort
+# PAWSITIVE ANIMAL SHELTER
 
 ### AUTHOR
 > UMOREN JONATHAN
@@ -22,13 +22,16 @@ in loving, permanent homes. TWe have been able to offer homeless animals a secon
 
 ### INSTALLATION & SETUP
 > * Visit [My GitHub](https://github.com/JoeyXaxa/Resort-Website) to clone the source code from GITHUB.
-> * After cloning click on the homepage.html to view the website.
+> * After cloning click on the index.html to view the website.
 
 ### BUGS KNOWN
 > NONE
 
+<!-- ### LICENSE
+> Project made use of MIT License -->
+
 ### CONTACT INFO
-    Name: 
+    Name: UMOREN JONATHAN
     Position:
     GitHub:
     FaceBook: 
